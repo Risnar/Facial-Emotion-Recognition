@@ -1,5 +1,5 @@
 # Facial Emotion Recognition
-===============
+
 
 This repository was used for my bachelor thesis to prove that it is possible to recognize emotions with a deep learning program. The aim of the project was to train a convolutional neutral network and test it on real cases. To train this network I used the FER-2013 dataset. This program is able to recognize the seven basic emotions angry, disgust, fear, happy, sad surprise and neutral.
 
