@@ -48,7 +48,7 @@ My model consists of an input layer followed by Conv2D, Relu, Dropout and then C
 
 ![alt text][pic1]
 
-[pic1]: https://github.com/Risnar/deep-learning/blob/master/img/CNN-Model.png "My CNN-Model"
+[pic1]: https://github.com/Risnar/Facial-Emotion-Recognition/blob/master/img/CNN-Model.png "My CNN-Model"
 
 
 Model Validation
@@ -56,14 +56,14 @@ Model Validation
 When I trained this network I reached an accuracy of 72.89% on the train-set and an accuracy of 68.57% on the test-set.
 ![alt text][pic2]
 
-[pic2]: https://github.com/Risnar/deep-learning/blob/master/img/graphs.png "Loss and Accuracy Diagram"
+[pic2]: https://github.com/Risnar/Facial-Emotion-Recognition/blob/master/img/graphs.png "Loss and Accuracy Diagram"
 
 
 But let's have a closer look for each category. The prediction of my model varies from emotion to emotion, because the dataset didn't have the same amount of image for each emotion and some of the emotions are more difficult to differentiate.
 
 ![alt text][pic3]
 
-[pic2]: https://github.com/Risnar/deep-learning/blob/master/img/confusionMatrix_val.png "Confusion Matrix"
+[pic2]: https://github.com/Risnar/Facial-Emotion-Recognition/blob/master/img/confusionMatrix_val.png "Confusion Matrix"
 
 As can be seen, the predictions for happy with 87.60% and Surprise with 80.75% have the highest accuracy. The lowest value was reached with 48.73% for fear.
 
