@@ -63,7 +63,7 @@ But let's have a closer look for each category. The prediction of my model varie
 
 ![alt text][pic3]
 
-[pic2]: https://github.com/Risnar/Facial-Emotion-Recognition/blob/master/img/confusionMatrix_val.png "Confusion Matrix"
+[pic3]: https://github.com/Risnar/Facial-Emotion-Recognition/blob/master/img/confusionMatrix_val.png "Confusion Matrix"
 
 As can be seen, the predictions for happy with 87.60% and Surprise with 80.75% have the highest accuracy. The lowest value was reached with 48.73% for fear.
 
